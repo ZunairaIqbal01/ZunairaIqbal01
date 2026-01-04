@@ -42,7 +42,7 @@ Improve audit readiness, prevent financial misstatements, and strengthen financi
 
 ---
 
-###  [Cash Flow Health Indicator Tool].(https://cash-flow-health-indicator.vercel.app/)
+###  [Cash Flow Health Indicator Tool](https://cash-flow-health-indicator.vercel.app/)
 
 A lightweight liquidity assessment tool designed for SMEs and startups.
 
