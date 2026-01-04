@@ -27,7 +27,7 @@ I focus on **clarity, structure, and decision usefulness**, rather than theoreti
 
 The main purpose of my GitHub is to publish **open-source, non-technical finance tools** that help improve financial discipline and resilience.
 
-### 📊 [Financial Governance Assessment Tool](https://financial-governance-self-assessmen.vercel.app/)
+###  [Financial Governance Assessment Tool](https://financial-governance-self-assessmen.vercel.app/)
 
 A structured self-assessment tool that helps businesses evaluate:
 - Internal controls
@@ -42,7 +42,7 @@ Improve audit readiness, prevent financial misstatements, and strengthen financi
 
 ---
 
-### 💧 Cash Flow Health Indicator Tool
+###  [Cash Flow Health Indicator Tool].(https://cash-flow-health-indicator.vercel.app/)
 
 A lightweight liquidity assessment tool designed for SMEs and startups.
 
