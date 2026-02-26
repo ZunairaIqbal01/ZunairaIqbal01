@@ -2,7 +2,7 @@
 
 Thank you for taking the time to visit my page.
 
-I’m a finance professional with over 9 years of experience across financial controllership, external audit, accounting standards implementation, and group reporting. My background spans IFRS and US GAAP, ERP systems, sustainability-related financial disclosures, and finance process automation.
+I’m a finance professional with over years of experience across financial controllership, external audit, accounting standards implementation, and group reporting. My background spans IFRS and US GAAP, ERP systems, sustainability-related financial disclosures, and finance process automation.
 
 My ambition is to continuously improve how **financial governance, cash flow discipline, and sustainability reporting** are understood and applied—especially for small and medium-sized businesses that often lack access to high-quality financial tools.
 
